@@ -1,5 +1,5 @@
 # PotatoDiseaseDetection
- "A machine learning-based system for detecting diseases in potato crops, leveraging AI to improve crop health monitoring and support sustainable agriculture practices. This project focuses on identifying common potato diseases efficiently to aid farmers in disease management and yield improvement."
+ A machine learning-based system for detecting diseases in potato crops, leveraging AI to improve crop health monitoring and support sustainable agriculture practices. This project focuses on identifying common potato diseases efficiently to aid farmers in disease management and yield improvement.
  
 <h1 align="center">I'm Abass Issaka Mohammed</h1>
 <h3 align="center">A Biosystem Engineering student at Nigde Omer Halisdemir University</h3>
